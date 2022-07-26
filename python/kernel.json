@@ -1,6 +1,6 @@
 {
  "argv": [
-  "/home/jve4pt/.local/share/jupyter/kernels/mykernel/init.sh",
+  "/home/jve4pt/.local/share/jupyter/kernels/python/rivanna/cluster_init_singularity.sh",
   "-f",
   "{connection_file}"
  ],
