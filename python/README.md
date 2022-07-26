@@ -19,6 +19,11 @@ Instructions for how to create the image.
 Script to build and publish the image. 
 Need to replace `{insert tag}` with version. 
 
-📄 `cluster_init.sh`: 
+
+📂 `rivanna/`📄`cluster_init.sh`: 
 
 Script to add to `iPython Kernel` so it can load the container. 
+
+📂 `rivanna/`📄`kernel.json`:
+
+File specifying the `Jupyter Lab` kernel settings in `Rivanna`. 
