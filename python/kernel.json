@@ -1,0 +1,9 @@
+{
+ "argv": [
+  "/home/jve4pt/.local/share/jupyter/kernels/mykernel/init.sh",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Yogi's Python Container",
+ "language": "python"
+}
