@@ -30,7 +30,7 @@ h11==0.13.0
 idna==3.3
 iniconfig==1.1.1
 ipykernel==6.15.1
-ipython==8.4.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 itsdangerous==2.1.2
 jedi==0.18.1
